@@ -1,10 +1,17 @@
 # Catstronauts
 
+![cats](./cats.PNG)
 Apollo's Lift-off course companion app (completed)
 
 [Live Demo App](https://lift-off-client-demo.netlify.app/)
 
 [Course Walk-through on Odyssey](https://odyssey.apollographql.com/lift-off-part1)
+
+## Overview
+
+In attempt to gain better understanding of the works of GraphQL and Apollo Server to become a more attactive candidate for employers, I have worked my way through the first (and currently only available) tutorial: "Catstronauts"! 😺😺😺😺😺 
+
+After building our Schema, we utilize Graph QL and Apollo Server to send and receive mock data, and fill the cards with it.  In future tutorials we will connect to live data and make our display a little more dynamic.  As new tutorials are released through Apollo's website, I will add to this repo.
 
 ## Run the project
 
